@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pr9
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# GridorList-View
+>>>>>>> 491856b0f7fcb24043d32bdde50e1653c4848b05
